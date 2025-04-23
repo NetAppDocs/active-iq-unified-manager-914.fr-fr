@@ -51,7 +51,7 @@ Les packs tiers suivants sont inclus avec Unified Manager. Si ces modules tiers 
 * MySQL Community Edition version 8.0.34
 * Python 3.11.6
 * OpenJDK version 11.0.20
-* p7zip version 23.01 ou ultérieure
+* 7-zip version 23.01 ou ultérieure
 
 
 [NOTE]
